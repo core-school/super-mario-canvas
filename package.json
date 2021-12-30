@@ -1,15 +1,15 @@
 {
   "name": "super-mario-canvas-core",
   "version": "1.0.1",
-  "description": "--- w4d3: Canvas date: 17/11/2021 ---",
+  "description": "A Super Mario game based in HTML5 canvas by CORE Code School",
+  "author": "Marc Pomar <marc@corecode.school>",
   "scripts": {
     "dev": "parcel index.html",
-    "build-gh-pages": "parcel build index.html",
+    "build-gh-pages": "parcel build index.html --public-url super-mario-canvas",
     "clean": "rimraf dist",
     "build": "yarn run clean && yarn run build-gh-pages"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "parcel": "^2.0.1",
