@@ -1,6 +1,6 @@
-# Super Mario en HTML5 Canvas
+# :tada: Super Mario HTML5 Canvas
 
-Versión de CORE del juego Super Mario
+Super Mario game written in typescript using [Parcel.js](https://parceljs.org/) bundler
 
 ## Referencias
 
