@@ -1,6 +1,6 @@
 {
-  "name": "w6d3-canvas-car",
-  "version": "1.0.0",
+  "name": "super-mario-canvas-core",
+  "version": "1.0.1",
   "description": "--- w4d3: Canvas date: 17/11/2021 ---",
   "scripts": {
     "dev": "parcel index.html",
